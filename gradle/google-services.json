@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718057196456",
+    "project_id": "clever-371ae",
+    "storage_bucket": "clever-371ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718057196456:android:c2020171eaff2d7c8eeb9d",
+        "android_client_info": {
+          "package_name": "com.example.clever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718057196456-64ht2p1ht7rmrc7m2om28ro5vp7oqotb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC72YiaYyiOCce-t7KRUqsR9TVGX7MLXeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718057196456-64ht2p1ht7rmrc7m2om28ro5vp7oqotb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
